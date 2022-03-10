@@ -6,20 +6,17 @@ My name is Yaseen Ali Buriro. I am doing Bachelors of Software Engineering in Me
 ##### Android Applications in java, (Sqlite and Firebase for Database). 
 ##### Desktop Applications in java  (SQL for Database)
 #
-#
 ##### Languages I am working on
 ##### -JAVA
 ##### -HTML, CSS
 ##### -JavaScript
 ##### -React
-
-
+#
 ##### Database Languages and platfomrs 
 ##### -SQL
 ##### -Sqlite
 ##### -Firebase
-
-
+#
 #### My blog: http://yaseen090.github.io
 #### Reach Me At: yaseenburiro090@gmail.com
 
