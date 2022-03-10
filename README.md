@@ -5,17 +5,17 @@ I am an Android Developer in java. Along with my core expertise I create Desktop
 Here are some ideas to get you started:
 
 
-#### Languages I am working on
-#### -JAVA
-#### -HTML, CSS
-#### -JavaScript
-#### -React
+##### Languages I am working on
+##### -JAVA
+##### -HTML, CSS
+##### -JavaScript
+##### -React
 
 
-#### Database Languages and platfomrs 
-#### -SQL
-#### -Sqlite
-#### -Firebase
+##### Database Languages and platfomrs 
+##### -SQL
+##### -Sqlite
+##### -Firebase
 
 
 #### My blog: http://yaseen090.github.io
