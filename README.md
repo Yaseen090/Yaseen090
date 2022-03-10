@@ -4,15 +4,15 @@ My name is Yaseen Ali Buriro. I am doing Bachelors of Software Engineering in Me
 #
 ##### What I can Develop.
 ##### Android Applications in java, (Sqlite and Firebase for Database). 
-##### Desktop Applications in java  (SQL for Database)
+##### Desktop Applications in java  (SQL for Database).
 #
-##### Languages I am working on
+##### Languages I am working on.
 ##### -JAVA
 ##### -HTML, CSS
 ##### -JavaScript
 ##### -React
 #
-##### Database Languages and platfomrs 
+##### Database Languages and platfomrs.
 ##### -SQL
 ##### -Sqlite
 ##### -Firebase
