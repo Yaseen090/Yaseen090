@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 # -JAVA
 # -HTML, CSS
 # -JavaScript
-# -React
+### -React
 
 # Database Languages and platfomrs 
 # -SQL
