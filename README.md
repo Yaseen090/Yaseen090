@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Yaseen090/Yaseen090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+My name is Yaseen Ali Buriro. I am doing Bachelors of Software Engineering in Mehran University of Engineering and Technology, Jamshoro. I am problem solver. I crave the pleasure of solving a problem or making something work.
+I am an Android Developer in java. Along with my core expertise I create Desktop Applications in Netbeans, java. I am currently wokring on expanding my expertise in other languages and platforms including javascipt, React, Python and other. My Database expertise lie in SQL, Sqlite and Firebase.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Languages I am working on
+# -JAVA
+# -HTML, CSS
+# -JavaScript
+# -React
+
+# Database Languages and platfomrs 
+# -SQL
+# -Sqlite
+# -Firebase
+
+
+# My blog: http://yaseen090.github.io
+# Reach Me At: yaseenburiro090@gmail.com
+
